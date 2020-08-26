@@ -1,2 +1,2 @@
 # AutomaticCrosswordGeneration
-Automagically generates crossword without any input
+Automagically generates crossword with a topic as input
